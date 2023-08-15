@@ -1,5 +1,5 @@
 # OpenGL3Droom
-A classic OpenGL open world third person camera sample program written in SDL(Simple DirectMedia Layer). Proper mouse view constraints like high end games.
+A classic OpenGL open world third person camera sample program written in SDL(Simple DirectMedia Layer). Proper mouse view constraints like high end games. Cross platform, works on Linux/Windows.
 
 Move mouse to rotate the world view.
 Scroll mouse to zoom in and zoom out the view.
