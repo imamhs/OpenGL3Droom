@@ -13,7 +13,10 @@ See the program below:
 
 ![Data cleaning](show.gif)
 
-*For usages and applications restrictions please refer to LICENSE.txt*
+*For usages and applications restrictions please refer to LICENSE*
+
+TODO:
+Mouse sensitivy is not quite right.
 
 Cheers!
 
