@@ -1,2 +1,4 @@
 # OpenGL3Droom
-Classic OpenGL open world third person camera sample program
+A classic OpenGL open world third person camera sample program.
+
+![Data cleaning](show.gif)
