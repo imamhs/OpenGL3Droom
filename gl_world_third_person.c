@@ -1,7 +1,6 @@
-/* OpenGL room
+/* OpenGL 3D room
  * Copyright (C) 2013
  * Md Imam Hossain (emamhd at gmail dot com)
- * All rights reserved
  */
 
 #include <stdio.h>
